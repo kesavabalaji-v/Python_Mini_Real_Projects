@@ -9,7 +9,7 @@ Open a terminal in this folder and run:
 ```bash
 python bank_account.py
 ```
-
+....
 The example creates an account, deposits money, withdraws money, and displays the balance.
 
 ## How encapsulation is used
